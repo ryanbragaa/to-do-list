@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -14,9 +14,7 @@
 
 <br>
 
-<p align="center">
-  <img href="https://cdn.discordapp.com/attachments/1117889678524285053/1162121007738392617/Captura_de_tela_2023-10-08_143856.png?ex=653ac887&is=65285387&hm=5a19c2fead9d98f7e479150561fcefc354072078e569edd5b438fcd73072e137&" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
