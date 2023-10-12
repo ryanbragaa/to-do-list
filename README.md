@@ -1,4 +1,4 @@
-<h1 align="center"> ToDo List </h1>
+<h1 align="center"> To-Do List </h1>
 
 <p align="center">Projeto To-Do-List simples, utilize como base para o seu.</p>
 
