@@ -1,10 +1,6 @@
 <h1 align="center"> ToDo List </h1>
 
-<p align="center">
-
-  Projeto To-Do-List simples, utilize como base para o seu.
-
-</p>
+<p align="center">Projeto To-Do-List simples, utilize como base para o seu.</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
